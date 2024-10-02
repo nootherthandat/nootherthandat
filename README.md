@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Darlene, a graduate student currently enrolled in the program of Master of Science in Geomatics Engineering major in Geoinformatics at the University of the Philippines Diliman.
-- 👀 I’m interested in Geographic Information Systems (GIS), Remote Sensing (RS), big data analytics, and turning these learnings into Public Policy.
-- 🌱 I have been a development worker focusing on planning, monitoring, and evaluating development plans at national and local levels for three years.
+- 👀 I have been a dedicated development worker for nearly five years, collaborating with international agencies, national government agencies, and local government units. I am interested in utilizing my expertise in geospatial and project management to contribute to the advancement of your sector.
 - 💞️ I’m looking to collaborate on projects and research.
 - 📫 How to reach me datandang.work@gmail.com
 
