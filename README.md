@@ -1,5 +1,5 @@
-- 👋 I am a researcher with interests in Smart GIS, AI, and data solutions. I have experience coordinating with international agencies, national government institutions, local government units, and various stakeholders and experts to support the development and implementation of projects across different sectors.
-- 💞️ I’m looking to collaborate on projects and research.
+- 👋 I'm a researcher with interests in Smart GIS, AI, and Data Solutions.
+- 🚀✨  Subscribe to my YouTube channel and learn together with me! (https://www.youtube.com/@DResearcher2025)
 - 📫 How to reach me datandang.work@gmail.com
 
 <!---
